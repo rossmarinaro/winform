@@ -1,0 +1,16 @@
+C:\project data\projects\csharp_projects\winform\bin\Debug\net5.0-windows\winform.exe
+C:\project data\projects\csharp_projects\winform\bin\Debug\net5.0-windows\winform.deps.json
+C:\project data\projects\csharp_projects\winform\bin\Debug\net5.0-windows\winform.runtimeconfig.json
+C:\project data\projects\csharp_projects\winform\bin\Debug\net5.0-windows\winform.runtimeconfig.dev.json
+C:\project data\projects\csharp_projects\winform\bin\Debug\net5.0-windows\winform.dll
+C:\project data\projects\csharp_projects\winform\bin\Debug\net5.0-windows\ref\winform.dll
+C:\project data\projects\csharp_projects\winform\bin\Debug\net5.0-windows\winform.pdb
+C:\project data\projects\csharp_projects\winform\obj\Debug\net5.0-windows\winform.csprojAssemblyReference.cache
+C:\project data\projects\csharp_projects\winform\obj\Debug\net5.0-windows\winform.GeneratedMSBuildEditorConfig.editorconfig
+C:\project data\projects\csharp_projects\winform\obj\Debug\net5.0-windows\winform.AssemblyInfoInputs.cache
+C:\project data\projects\csharp_projects\winform\obj\Debug\net5.0-windows\winform.AssemblyInfo.cs
+C:\project data\projects\csharp_projects\winform\obj\Debug\net5.0-windows\winform.csproj.CoreCompileInputs.cache
+C:\project data\projects\csharp_projects\winform\obj\Debug\net5.0-windows\winform.dll
+C:\project data\projects\csharp_projects\winform\obj\Debug\net5.0-windows\ref\winform.dll
+C:\project data\projects\csharp_projects\winform\obj\Debug\net5.0-windows\winform.pdb
+C:\project data\projects\csharp_projects\winform\obj\Debug\net5.0-windows\winform.genruntimeconfig.cache
